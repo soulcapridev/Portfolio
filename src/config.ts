@@ -27,7 +27,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
       "Envolved in building Rune marketplace, Raffle and Auction tools, Map game. Collaborated with Lead Developer",
     stack: "Bitcoin, Rune, Inscription, React, Next.js, Tailwind CSS, MongoDB",
     url: "https://theruneguardians.com/",
-    category: "Bitcoin",
+    category: "Blockchain",
   },
   {
     thumb: "/projects/ordinal_inscription.png",
@@ -39,7 +39,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
       "Envolved in the Backend of Ordinal inscription service that is folking https://www.luminex.io/ordinals/mint. Collaborated with Lead Deveveloper.",
     stack: "Bitcoin, Ordinal Inscription, React, Tailwind CSS, MongoDB",
     url: "https://bitmap-community-dev.vercel.app/inscribe",
-    category: "Bitcoin",
+    category: "Blockchain",
   },
   {
     thumb: "/projects/app-ape-lol.png",
@@ -51,7 +51,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
       "Pump.fun enables low-cost token launches (~0.02 SOL) with community-driven liquidity pooling via a bonding curve to Raydium.",
     stack: "Pump.fun, Solana Smart Contract, React",
     url: "https://app.ape.lol/",
-    category: "Solana",
+    category: "Blockchain",
   },
   {
     thumb: "/projects/hubbleprotocol.png",
@@ -63,7 +63,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
       "Hubble is a DeFi protocol on Solana that facilitates USDH borrowing via collateralized assets, enhancing liquidity for investments.",
     stack: "React, Type Script, Tailwind CSS",
     url: "https://hubbleprotocol.io/",
-    category: "Solana",
+    category: "Blockchain",
   },
   // {
   //   thumb: "/projects/eth_p2e_tg_game.png",
@@ -75,7 +75,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   //     "99% of crypto investors do not participate in the ecosystem, only speculate on price action, and it is hard for a project to grow to its potential. This is why we think by creating multiple revenue streams, 1 of a kind games, and incentives to implement a working strategy that will propel this project to do great things in the crypto space.",
   //   stack: "Ethereum, Telegram, React, Node.js",
   //   url: "https://t.me/revolver_p2e_bot",
-  //   category: "Bitcoin",
+  //   category: "Blockchain",
   // },
   {
     thumb: "/projects/cosabet.png",
@@ -87,7 +87,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
       "Building a Solana casino requires scalable txn throughput, secure smart contracts, oracles, compliance, anonymity, and verifiable RNG.",
     stack: "Solana, Next.js, Tailwind CSS, Styled-components",
     url: "https://www.cosabet.com/",
-    category: "Solana",
+    category: "Blockchain",
   },
   {
     thumb: "/projects/storyfile.png",
@@ -225,7 +225,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
 
 export const LIVE_URL = "https://www.westchain.org/";
 
-export const TITLE = "Degen Capricorn";
+export const TITLE = "Jay West Portfolio";
 
 export const DESCRIPTION =
   "Make AI 'n' Blockchain Great Again";

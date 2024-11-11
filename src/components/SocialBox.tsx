@@ -20,7 +20,7 @@ const SocialBox: FC = () => {
           <GithubIcon />
         </div>
       </Link>
-      <Link
+      {/* <Link
         href="https://discord.com/users/509387421419569152"
         passHref
         target="_blank"
@@ -28,7 +28,7 @@ const SocialBox: FC = () => {
         <div className="grid w-10 h-10 p-2 rounded-md place-content-center shadow-item dark:shadow-none dark:bg-white">
           <DiscordHIcon />
         </div>
-      </Link>
+      </Link> */}
       <Link href="https://t.me/degencap777" passHref target="_blank">
         <div className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none">
           <TelegramHIcon />

@@ -20,16 +20,16 @@ const AboutMe: FC = () => {
         <div className="mt-20 about-me">
           {/* <Notice /> */}
           <p className="text-[12px] pt-10 text-gray-500 font-bold">
-            WELCOME TO MIRAKURU
+            WELCOME TO MY PROFILE
           </p>
           <h2 className="font-bold text-[28px] md:text-[32px] py-2.5 text-gray-800 dark:text-white">
-            This is <span className="text-purple-800 dark:text-purple-500">{"Capricorn"}</span>, &nbsp;<span></span>&nbsp;
+            This is <span className="text-purple-800 dark:text-purple-500">{"Jay West"}</span>, &nbsp;<span></span>&nbsp;
             <Type />
           </h2>
           <h2 className="text-gray-800 dark:text-gray-300 font-bold text-xl w-full flex items-center gap-2">
             just call me{" "}
             <span className="text-purple-800 dark:text-purple-500 font-bold flex items-center gap-1">
-              Degencap 
+            🐐DegenCap 
             </span>
           </h2>
           {/*           <div className="text-white font-bold text-md bg-purple-700 inline-block py-0.5 px-4 rounded-3xl my-3">
@@ -38,7 +38,7 @@ const AboutMe: FC = () => {
           <p className="text-[14px] md:text-[16px] text-gray-800 dark:text-gray-200 font-medium max-w-[600px]">
             {/* Results-driven Frontend and Web3 Developer with{" "} */}
             <span className="text-purple-800 dark:text-purple-500 font-bold">
-              <span>Make AI &apos;n&apos; Blockchain Great Again</span>
+              <span>MABGA: Make AI &apos;n&apos; Blockchain Great Again</span>
             </span>{" "}
             {/* of experience in frontend development and expertise in{" "}
             <span className="text-purple-800 dark:text-purple-500 font-bold">
