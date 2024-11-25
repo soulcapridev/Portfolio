@@ -7,23 +7,23 @@ const Header: FC = () => {
 
   return (
     <header className="h-[48px] lg:h-[68px]">
-      <div className="flex justify-between items-center py-2 lg:py-3 px-4 lg:px-6 border-b dark:border-gray-800 backdrop-blur-lg">
-        <ThemeToggle />
-        <ul className="lg:flex items-center hidden">
-          <li className="font-semibold capitalize px-6 text-[14px] py-2 hover:text-purple-500">
-            <Link href="/#home" className="font-bold capitalize">
-              home
+      <div className="flex justify-between items-center pl-6 py-2 lg:py-0 lg:pl-20 px-4 lg:px-3 border-b dark:border-gray-800 backdrop-blur-lg">
+        <Link href="/#home" className="font-bold">
+          jay west blog
+        </Link>
+        <ul className="lg:flex items-center hidden gap-2">
+          <li className="font-semibold capitalize text-[14px] py-2 hover:text-purple-500">
+            <Link href="/#work" className="font-bold capitalize">
+              work
             </Link>
           </li>
-          <li className="font-semibold capitalize px-6 text-[14px] py-2 hover:text-purple-500">
-            <Link href="/#experience" className="font-bold capitalize">
-              experience
+          <li className="font-semibold capitalize text-[14px] py-2 hover:text-purple-500">
+            <Link href="/#about" className="font-bold capitalize">
+              about
             </Link>
           </li>
-          <li className="font-semibold capitalize px-6 text-[14px] py-2 hover:text-purple-500">
-            <Link href="/#contact" className="font-bold capitalize">
-              contact
-            </Link>
+          <li className="font-semibold px-3 text-[14px] py-2 hover:text-purple-500">
+            <ThemeToggle />
           </li>
         </ul>
         <div className="mobile-nav">
@@ -97,19 +97,13 @@ const Header: FC = () => {
             onClick={() => setOpen(false)}
           >
             <Link href="/#home" className="font-bold">
-              home
+              jay west blog
             </Link>
-            <Link href="/#experience" className="font-bold">
-              experience
+            <Link href="/#work" className="font-bold">
+              work
             </Link>
-            <Link href="/#education" className="font-bold">
-              education
-            </Link>
-            <Link href="/#skills" className="font-bold">
-              skills
-            </Link>
-            <Link href="/#contact" className="font-bold">
-              contact
+            <Link href="/#about" className="font-bold">
+              about
             </Link>
           </div>
         </div>

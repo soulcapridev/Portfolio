@@ -4,9 +4,9 @@ import { SectionTitle } from "./StyledComponent";
 
 const Employment: FC = () => {
   return (
-    <div id="experience" className="container mx-auto">
-      <div className="experience mt-20">
-        <SectionTitle>Work experience</SectionTitle>
+    <div id="about" className="container mx-auto">
+      <div className="about mt-20">
+        <SectionTitle>About</SectionTitle>
         <div className="grid gap-10 mt-10 mb-10">
           {emplyments.map((item, key) => (
             <EmploymentItem
@@ -28,80 +28,39 @@ export default Employment;
 
 const emplyments = [
   {
-    role: "Moduluc | Senior Frontend and Web3 Developer | Part-time Contract",
-    from: "Feb 2021",
-    to: "Jan 2024",
+    role: "Skilled Rust engineer with expertise in developing, deploying, and optimizing high-performance Web3 solutions across blockchain ecosystems like Solana and Bitcoin, while integrating AI/ML capabilities.",
+    from: "Jay West [2016",
+    to: "Present]",
     description: [
       {
         title:
-          "Engineered the frontend for corporate websites, including https://moduluc.com, https://airia.xyz, and https://aus.airia.xyz.",
+          "Hello 👋",
       },
       {
         title:
-          "Led the AiriA collection to a total volume of 16.4K SOL (approx. 600K USD) on MagicEden.",
+          "I am a software engineer focused on Rust development in the Web3 space, particularly with platforms like Solana and Bitcoin, where I leverage my expertise in AI and ML to build innovative decentralized applications.",
       },
       {
-        title: "Achieved an exceptional user base growth from 50K to 200M.",
+        title:
+          "Currently, I am working on enhancing the scalability and performance of blockchain solutions by integrating machine learning into decentralized finance (DeFi) systems.",
+      },
+      {
+        title:
+          "Previously, I contributed to various open-source projects and collaborated with teams to advance blockchain technologies and improve developer tooling.",
+      },
+      {
+        title:
+          "I am also passionate about fostering community engagement in the Rust and Web3 ecosystems and would love to explore collaboration opportunities or discuss community-building initiatives",
       },
     ],
     stack: [
+      { title: "Rust" },
+      { title: "C/C++" },
+      { title: "Python" },
       { title: "React" },
       { title: "Next.js" },
-      { title: "Web3" },
-      { title: "MUI" },
-      { title: "SCSS" },
-      { title: "Tailwind CSS" },
-    ],
-  },
-  {
-    role: "Shredded Apes (SAGC) | Head Frontend Developer | Part-time",
-    from: "Aug 2022",
-    to: "Present",
-    description: [
-      {
-        title:
-          "Directed the development and management of SAGC company websites, shreddedapes.io, and shreddedapes.shop.",
-      },
-      {
-        title:
-          "Contributed to a cumulative SAGC collection value of 47K SOL (approx. 1.2M USD) on the marketplace.",
-      },
-      { title: "Facilitated expansion of $WHEY holders to 20K+." },
-    ],
-    stack: [
-      { title: "Solana" },
-      { title: "React" },
-      { title: "Next.js" },
-      { title: "Web3.js" },
-      { title: "Redux" },
-      { title: "SCSS" },
-    ],
-  },
-  {
-    role: "SolanaShuffle | Senior Full-stack Developer | Full-time",
-    from: "Jan 2022",
-    to: "April 2023",
-    description: [
-      {
-        title:
-          "Pioneered the development and management of the SolanaShuffle website (https://solanashuffle.com)",
-      },
-      {
-        title:
-          "Introduced captivating games such as jackpot, tower, and coin-flip, generating over 200K dollars in casino revenue.",
-      },
-      {
-        title:
-          "Created a user-centric website that enhanced the overall experience.",
-      },
-    ],
-    stack: [
-      { title: "GoLang" },
-      { title: "React" },
-      { title: "Redux" },
-      { title: "GraphQL" },
-      { title: "Tailwind CSS" },
-      { title: "SCSS" },
+      { title: "Solana Smart Contract" },
+      { title: "Bitcoin Layer1/Layer2" },
     ],
   },
 ];

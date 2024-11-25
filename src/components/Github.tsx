@@ -9,16 +9,16 @@ const Footer: FC = () => {
         Work History <span className="highlight"></span>
       </SectionTitle>
       <a
-        href="https://github.com/degencap777"
+        href="https://github.com/jwest951227"
         target="_blank"
         rel="noreferrer"
         className="text-purple-800 dark:text-purple-500 font-bold"
         style={{ textAlign: "center", padding: "10px 0" }}
       >
-        https://github.com/degencap777
+        https://github.com/jwest951227
       </a>
       <GitHubCalendar
-        username="degencap777"
+        username="jwest951227"
         blockSize={17}
         blockMargin={1}
         fontSize={12}

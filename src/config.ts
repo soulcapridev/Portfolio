@@ -182,7 +182,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   //   description:
   //     "App: Multilingual Document Translation/Review Model.",
   //   stack: "PyTorch, HuggingFace, Math, Electron.js",
-  //   url: "https://github.com/degencap777/troyzBE",
+  //   url: "https://github.com/jwest951227/troyzBE",
   //   category: "AI",
   // },
   {
@@ -206,7 +206,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   //   description:
   //     "Develop a CNN-based model for real-time emotion recognition in images using feature extraction and classification techniques.",
   //   stack: "Data Gather/Augmentation, Train/Tune, Test",
-  //   url: "github.com/degencap777/emotionDetect",
+  //   url: "github.com/jwest951227/emotionDetect",
   //   category: "AI",
   // },
   // {
@@ -218,7 +218,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   //   description:
   //     "This project is an approach to the development of plant disease recognition model, based on leaf image classification, by the use of deep convolutional networks. The developed model is able to recognize 38 different types of plant diseases out of of 14 different plants with the ability to distinguish plant leaves from their surroundings.",
   //   stack: "CNN, Tensorflow, Flask, Python",
-  //   url: "https://github.com/degencap777/plantAI",
+  //   url: "https://github.com/jwest951227/plantAI",
   //   category: "AI",
   // },
 ];
@@ -241,4 +241,4 @@ export const manifest = {
   }],
 }
 
-export const openGraph = { card: "capricorn", site: "portfolio", creator: "@degencap777", "images": "https://www.westchain.org/banner.jpg" }
+export const openGraph = { card: "capricorn", site: "portfolio", creator: "@jwest951227", "images": "https://www.westchain.org/banner.jpg" }

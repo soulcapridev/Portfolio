@@ -7,12 +7,9 @@ const Experience: FC = () => {
   const [tab, setTab] = useState<string>("all");
 
   return (
-    <div id="experience" className="container mx-auto">
-      <div className="work experience">
-        <SectionTitle>experience</SectionTitle>
-        <p className="my-3 text-sm text-center font-semibold text-purple-800 dark:text-purple-500">
-          Recent Projects
-        </p>
+    <div id="work" className="container mx-auto">
+      <div className="work work">
+        <SectionTitle>work</SectionTitle>
         <div className="flex flex-wrap justify-center my-5">
           {[
             "all",

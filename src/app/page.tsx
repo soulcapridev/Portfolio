@@ -67,9 +67,9 @@ export default function Home() {
         </Head>
         <Header />
         <AboutMe />
-        <Github />
+        {/* <Github /> */}
         <Experience />
-        {/* <Employment /> */}
+        <Employment />
         {/* <Skills /> */}
         <Footer />
       </div>

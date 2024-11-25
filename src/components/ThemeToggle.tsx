@@ -5,7 +5,7 @@ import { ReactSVG } from "react-svg";
 const ThemeToggle: FC = () => {
   const { theme, setTheme } = useTheme();
   return (
-    <div className="rounded-full flex gap-1 bg-[#F4F4F4] dark:bg-[#111315] p-1">
+    <div className="rounded-full flex gap-1 bg-[#F4F4F4] dark:bg-[#111315]">
       <button
         id="theme-toggle"
         aria-label="theme-toggle"
