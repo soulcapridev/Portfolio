@@ -10,7 +10,7 @@ import {
 const SocialBox: FC = () => {
   return (
     <div className="flex flex-wrap gap-4 mt-4 justify-center">
-      <Link href="https://twitter.com/jwest951227" passHref target="_blank">
+      <Link href="https://x.com/rustpump951227" passHref target="_blank">
         <div className="grid w-10 h-10 p-2 rounded-3xl place-content-center shadow-item dark:shadow-none dark:bg-white">
           <TwitterIcon />
         </div>
