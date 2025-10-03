@@ -182,7 +182,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   //   description:
   //     "App: Multilingual Document Translation/Review Model.",
   //   stack: "PyTorch, HuggingFace, Math, Electron.js",
-  //   url: "https://github.com/jwest951227/troyzBE",
+  //   url: "https://github.com/soulcapridev/troyzBE",
   //   category: "AI",
   // },
   {
@@ -206,7 +206,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   //   description:
   //     "Develop a CNN-based model for real-time emotion recognition in images using feature extraction and classification techniques.",
   //   stack: "Data Gather/Augmentation, Train/Tune, Test",
-  //   url: "github.com/jwest951227/emotionDetect",
+  //   url: "github.com/soulcapridev/emotionDetect",
   //   category: "AI",
   // },
   // {
@@ -218,27 +218,27 @@ export const EXPERIENCE: ExpereinceItem[] = [
   //   description:
   //     "This project is an approach to the development of plant disease recognition model, based on leaf image classification, by the use of deep convolutional networks. The developed model is able to recognize 38 different types of plant diseases out of of 14 different plants with the ability to distinguish plant leaves from their surroundings.",
   //   stack: "CNN, Tensorflow, Flask, Python",
-  //   url: "https://github.com/jwest951227/plantAI",
+  //   url: "https://github.com/soulcapridev/plantAI",
   //   category: "AI",
   // },
 ];
 
-export const LIVE_URL = "https://www.westchain.org/";
+export const LIVE_URL = "https://degencap-portfolio.vercel.app/";
 
-export const TITLE = "Jay West Portfolio";
+export const TITLE = "SoulCapri - Rust Engineer";
 
 export const DESCRIPTION =
-  "Make AI 'n' Blockchain Great Again";
+  "Rust Engineer | Blockchain | AI/ML | Full-Stack";
 
 export const manifest = {
   type: "website",
-  url: "https://www.westchain.org/",
+  url: "https://degencap-portfolio.vercel.app/",
   title: TITLE,
   description: DESCRIPTION,
-  siteName: "Westchain",
+  siteName: "soulcapri",
   images: [{
-    url: "https://www.westchain.org/banner.jpg",
+    url: "https://degencap-portfolio.vercel.app/banner.jpg",
   }],
 }
 
-export const openGraph = { card: "capricorn", site: "portfolio", creator: "@jwest951227", "images": "https://www.westchain.org/banner.jpg" }
+export const openGraph = { card: "capricorn", site: "portfolio", creator: "@soulcapridev", "images": "https://degencap-portfolio.vercel.app/banner.jpg" }
