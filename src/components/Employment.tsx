@@ -29,8 +29,8 @@ export default Employment;
 const emplyments = [
   {
     role: "Skilled Rust engineer with expertise in developing, deploying, and optimizing high-performance Web3 solutions across blockchain ecosystems like Solana and Bitcoin, while integrating AI/ML capabilities.",
-    from: "Soul Capricorn - [Rust",
-    to: "Engineer]",
+    from: "Soul Capricorn",
+    to: "[Rust Engineer]",
     description: [
       {
         title:
