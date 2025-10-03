@@ -18,7 +18,7 @@ const AboutMe: FC = () => {
             />
           </div>
           <h2 className="font-bold text-[36px] md:text-[40px] text-gray-800 dark:text-white flex justify-center">
-            <span className="text-white-800 dark:text-white-500">{"Jay West"}</span><span></span>&nbsp;
+            <span className="text-white-800 dark:text-white-500">{"Soul Capricorn"}</span><span></span>&nbsp;
             {/* <Type /> */}
           </h2>
           {/*           <div className="text-white font-bold text-md bg-purple-700 inline-block py-0.5 px-4 rounded-3xl my-3">
