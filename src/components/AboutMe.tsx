@@ -27,9 +27,9 @@ const AboutMe: FC = () => {
           <p className="text-[20px] md:text-[22px] text-gray-800 dark:text-gray-200 font-medium max-w-[600px]">
             {/* Results-driven Frontend and Web3 Developer with{" "} */}
             <span className="text-gray-800 dark:text-gray-400 font-medium">
-              <span>rust engineering and web3</span>
+              <span>rust engineer | blockchain | ai/ml | full-stack</span>
               <p className="text-[16px] text-center text-gray-500 font-bold">
-                solana•₿itcoin•ml
+                solana•₿itcoin•sui•solidity
               </p>
             </span>{" "}
           </p>
