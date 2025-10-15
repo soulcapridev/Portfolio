@@ -10,7 +10,7 @@ const AboutMe: FC = () => {
           {/* <Notice /> */}
           <div className="flex justify-center p-2 relative m-auto my-2 rounded-full w-[160px] h-[160px] group-hover:hidden overflow-hidden">
             <Image
-              src={`/avatar/cap (4).png`}
+              src={`/avatar/crancr.jpg`}
               fill
               sizes="(max-width: 768px) auto, (max-width: 1200px) auto"
               className="object-cover"
