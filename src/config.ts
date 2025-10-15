@@ -225,17 +225,17 @@ export const EXPERIENCE: ExpereinceItem[] = [
 
 export const LIVE_URL = "https://degencap-portfolio.vercel.app/";
 
-export const TITLE = "SoulCapri - Rust Engineer";
+export const TITLE = "SoulCr@ncr - Rust Engineer";
 
 export const DESCRIPTION =
-  "Rust Engineer | Blockchain | AI/ML | Full-Stack";
+  "Rust Engineer | Full-Stack & AI Specialist";
 
 export const manifest = {
   type: "website",
   url: "https://degencap-portfolio.vercel.app/",
   title: TITLE,
   description: DESCRIPTION,
-  siteName: "soulcapri",
+  siteName: "soulcrancer",
   images: [{
     url: "https://degencap-portfolio.vercel.app/banner.jpg",
   }],
