@@ -9,7 +9,7 @@ const Header: FC = () => {
     <header className="h-[48px] lg:h-[68px]">
       <div className="flex justify-between items-center pl-6 py-2 lg:py-0 lg:pl-20 px-4 lg:px-3 border-b dark:border-gray-800 backdrop-blur-lg">
         <Link href="/#home" className="font-bold">
-          soul capri blog
+          soul cr@ncr blog
         </Link>
         <ul className="lg:flex items-center hidden gap-2">
           <li className="font-semibold capitalize text-[14px] py-2 hover:text-purple-500">
