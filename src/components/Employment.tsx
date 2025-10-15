@@ -38,19 +38,19 @@ const emplyments = [
       },
       {
         title:
-          "I am a software engineer focused on Rust development in the Web3 space, particularly with platforms like Solana and Bitcoin, where I leverage my expertise in AI and ML to build innovative decentralized applications.",
+          "As blockchain and software engineer specializing in Solana smart contracts, built secure, scalable smart contracts with advanced features.",
       },
       {
         title:
-          "Currently, I am working on enhancing the scalability and performance of blockchain solutions by integrating machine learning into decentralized finance (DeFi) systems.",
+          "As skilled in Rust, Anchor, Web3, and full- stack development, created high-performance decentralized apps and trading bots.",
       },
       {
         title:
-          "Previously, I contributed to various open-source projects and collaborated with teams to advance blockchain technologies and improve developer tooling.",
+          "Experienced in backend and frontend blockchain solutions, focused on onchain arbitrage and DeFi platform development.",
       },
       {
         title:
-          "I am also passionate about fostering community engagement in the Rust and Web3 ecosystems and would love to explore collaboration opportunities or discuss community-building initiatives",
+          "Now preparing myself to be super in the next coming 4th breakthrough in blockchain and AI innovation.",
       },
     ],
     stack: [
