@@ -18,7 +18,7 @@ const AboutMe: FC = () => {
             />
           </div>
           <h2 className="font-bold text-[36px] md:text-[40px] text-gray-800 dark:text-white flex justify-center">
-            <span className="text-white-800 dark:text-white-500">{"Soul Capricorn"}</span><span></span>&nbsp;
+            <span className="text-white-800 dark:text-white-500">{"Soul Cr@ncr"}</span><span></span>&nbsp;
             {/* <Type /> */}
           </h2>
           {/*           <div className="text-white font-bold text-md bg-purple-700 inline-block py-0.5 px-4 rounded-3xl my-3">
@@ -27,7 +27,7 @@ const AboutMe: FC = () => {
           <p className="text-[20px] md:text-[22px] text-gray-800 dark:text-gray-200 font-medium max-w-[600px]">
             {/* Results-driven Frontend and Web3 Developer with{" "} */}
             <span className="text-gray-800 dark:text-gray-400 font-medium">
-              <span>rust engineer | blockchain | ai/ml | full-stack</span>
+              <span>rust engineer | full-stack & AI specialist</span>
               <p className="text-[16px] text-center text-gray-500 font-bold">
                 solana•₿itcoin•sui•evm
               </p>
